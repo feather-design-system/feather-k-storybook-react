@@ -1,4 +1,19 @@
-# React + TypeScript + Vite
+# Kendo UI for React with ThemeBuilder and Storybook
+
+A repository to showcase Kendo UI for React components styled with ThemeBuilder and developed using Storybook.
+
+## Getting Started
+
+1. Clone the repo: `git clone https://github.com/feather-design-system/kendo-feather-react-storybook.git`
+2. Install dependencies: `npm install`
+3. Run the app: `npm run dev`
+4. Run Storybook: `npm run storybook`
+
+## License
+
+MIT
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
